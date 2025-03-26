@@ -118,6 +118,7 @@ _____________________________________
 
 #### Monday
 - [Data Cleaning Activity](https://github.com/ampivirotto/data_feminism/blob/main/workshops/week6/data_cleaning.ipynb) - [Completed Notebook](https://github.com/ampivirotto/data_feminism/blob/main/workshops/week6/data_cleaning_complete.ipynb)
+- [Slides](https://github.com/ampivirotto/data_feminism/blob/main/slides/week6/week6.pdf)
 
 #### Wednesday
 - Small Group Discussion (Discussion Leaders Group 3) - [Discussion Questions](workshops/week6/week6_discussion_questions.md)
@@ -137,6 +138,7 @@ _________________________________
 - In-class final project work period 
 
 #### Wednesday
+- [Slides](https://github.com/ampivirotto/data_feminism/blob/main/slides/week7/week7.pdf)
 - [Exercise 2: Data Processing and Analysis](https://github.com/ampivirotto/data_feminism/blob/main/workshops/week7/exercise2.ipynb)
 
 #### Assignment
@@ -154,10 +156,11 @@ ______
 - Weapons of Math Destruction Introduction (moodle)
 
 #### Monday
-- [The Ethical Engine Project](https://github.com/evanpeck/ethical_engine/tree/master?tab=readme-ov-file)
+- [MIT Moral Machine](https://www.moralmachine.net/)
+- [Slides](https://github.com/ampivirotto/data_feminism/blob/main/slides/week8/week8.pdf)
 
 #### Wednesday
-- [Exercise 3 Algorithm Traffic Management: Urban Planning Trolley Problems]()
+- [Exercise 3 Algorithm Traffic Management: Urban Planning Trolley Problems](https://github.com/ampivirotto/data_feminism/tree/main/workshops/week8)
 
 #### Assignment
 - Finish In-class activity 3 (Exercise 3) due Friday 3/21 at 11:59 PM 
@@ -170,7 +173,8 @@ ____
 - [Visualization Rhetoric: Framing Effects in Narrative Visualization](https://ieeexplore.ieee.org/document/6064988)
 
 #### Monday
-- In-class activity
+- [Lecture on Visualizations](https://github.com/ampivirotto/data_feminism/blob/main/slides/week9/week9.pdf)
+- [Example Code for Visualizations](https://github.com/ampivirotto/data_feminism/blob/main/workshops/week9/examples.ipynb)
 
 #### Wednesday
 - Small Group Discussion (Discussion Leaders Group 4)
