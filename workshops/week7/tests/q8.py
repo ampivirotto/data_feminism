@@ -1,3 +1,5 @@
+OK_FORMAT = True  # This tells otter-grader the file is in OK format
+
 test = {
   'name': 'Question 8',
   'points': 1,
@@ -7,11 +9,11 @@ test = {
         {
           'code': r"""
           >>> # Check minimum, maximum, and mean sleep hours
-          >>> minSleep == -0.1944527906201543
+          >>> bool((minSleep == -0.1944527906201543) or (minSleep == np.float64(-0.1944527906201543)))
           True
-          >>> maxSleep == 12.140232872862926
+          >>> bool((maxSleep == 12.140232872862926) or (maxSleep == np.float64(12.140232872862926)))
           True
-          >>> meanSleep ==  6.505462918406444
+          >>> bool((meanSleep ==  6.505462918406444) or (meanSleep == np.float64(6.505462918406444)))
           True
           """,
           'hidden': False,

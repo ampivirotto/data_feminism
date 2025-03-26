@@ -1,3 +1,5 @@
+OK_FORMAT = True  # This tells otter-grader the file is in OK format
+
 test = {
   'name': 'Question 2',
   'points': 1,
@@ -7,9 +9,9 @@ test = {
         {
           'code': r"""
           >>> # Check to see if the mean HR changes when using imputation. 
-          >>> HeartRateMean == 75.13268404820141
+          >>> bool((HeartRateMean == 75.13268404820141) or (HeartRateMean == np.float64(75.13268404820141)))
           True
-          >>> HeartRateMean == fullTableHRMean
+          >>> bool(HeartRateMean == fullTableHRMean)
           True
           """,
           'hidden': False,

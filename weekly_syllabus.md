@@ -120,7 +120,7 @@ _____________________________________
 - [Data Cleaning Activity](https://github.com/ampivirotto/data_feminism/blob/main/workshops/week6/data_cleaning.ipynb) - [Completed Notebook](https://github.com/ampivirotto/data_feminism/blob/main/workshops/week6/data_cleaning_complete.ipynb)
 
 #### Wednesday
-- Small Group Discussion (Discussion Leaders Group 3) - [Discussion Questions]()
+- Small Group Discussion (Discussion Leaders Group 3) - [Discussion Questions](workshops/week6/week6_discussion_questions.md)
 
 #### Assignment
 - Discussion Post 4 due Wednesday 2/26 at 1:10 PM
@@ -134,10 +134,10 @@ _________________________________
  
 
 #### Monday
-- In-class activity
+- In-class final project work period 
 
 #### Wednesday
-- Coding activity on data lifecycle
+- [Exercise 2: Data Processing and Analysis](https://github.com/ampivirotto/data_feminism/blob/main/workshops/week7/exercise2.ipynb)
 
 #### Assignment
 - Finish in-class activity 2 (Exercise 2) due Friday 3/7 at 11:59 PM
@@ -150,14 +150,14 @@ ______
 
 ### Week 8 (3/17/25): Algorithmic Bias in Data Analysis 
 #### Readings
-- Algorithms of Oppression Introduction (moodle)
-- Weapons of Math Destruction Introduction and Chapter 1 (moodle)
+- Algorithms of Oppression Introduction & Conclusion (moodle)
+- Weapons of Math Destruction Introduction (moodle)
 
 #### Monday
 - [The Ethical Engine Project](https://github.com/evanpeck/ethical_engine/tree/master?tab=readme-ov-file)
 
 #### Wednesday
-- [IndieLabel Algorithm Audit](https://github.com/StanfordHCI/indie-label)
+- [Exercise 3 Algorithm Traffic Management: Urban Planning Trolley Problems]()
 
 #### Assignment
 - Finish In-class activity 3 (Exercise 3) due Friday 3/21 at 11:59 PM 
@@ -207,7 +207,7 @@ _____
 - Artificial Unintelligence Chapter 11: Third Wave AI (moodle)
 
 #### Monday
-- In-class activity
+- [IndieLabel Algorithm Audit](https://github.com/StanfordHCI/indie-label)
 
 #### Wednesday
 - Coding activity 

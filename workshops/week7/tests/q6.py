@@ -1,3 +1,5 @@
+OK_FORMAT = True  # This tells otter-grader the file is in OK format
+
 test = {
   'name': 'Question 6',
   'points': 1,
@@ -7,11 +9,11 @@ test = {
         {
           'code': r"""
           >>> # Check minimum and maximum steps 
-          >>> minSteps == 0.9101380609604088
+          >>> bool((minSteps == 0.9101380609604088) or (minSteps == np.float64(0.9101380609604088)))
           True
-          >>> maxSteps == 62486.690753464914
+          >>> bool((maxSteps == 62486.690753464914) or (maxSteps == np.float64(62486.690753464914)))
           True
-          >>> meanSteps ==  6985.685884992229
+          >>> bool((meanSteps ==  6985.685884992229) or (meanSteps == np.float64(6985.685884992229)))
           True
           """,
           'hidden': False,
