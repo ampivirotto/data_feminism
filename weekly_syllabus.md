@@ -160,7 +160,8 @@ ______
 - [Slides](https://github.com/ampivirotto/data_feminism/blob/main/slides/week8/week8.pdf)
 
 #### Wednesday
-- [Exercise 3 Algorithm Traffic Management: Urban Planning Trolley Problems](https://github.com/ampivirotto/data_feminism/tree/main/workshops/week8)
+- [Exercise 3 Algorithm Traffic Management: Urban Planning Trolley Problems](workshops/week8/Exercise3.md)
+- [Exercise 3 Repository](https://github.com/ampivirotto/data_feminism/tree/main/workshops/week8)
 
 #### Assignment
 - Finish In-class activity 3 (Exercise 3) due Friday 3/21 at 11:59 PM 
@@ -177,7 +178,7 @@ ____
 - [Example Code for Visualizations](https://github.com/ampivirotto/data_feminism/blob/main/workshops/week9/examples.ipynb)
 
 #### Wednesday
-- Small Group Discussion (Discussion Leaders Group 4)
+- Small Group Discussion (Discussion Leaders Group 4) - [Discussion Questions](workshops/week9/week9_discussion_questions.md)
 
 #### Assignment
 - Discussion Post 5 due Wednesday 3/26 at 1:10 PM
@@ -195,10 +196,10 @@ ____________________________________________________
 - [The Software That Shapes Workers’ Lives](https://www.newyorker.com/science/elements/the-software-that-shapes-workers-lives)
 
 #### Monday
-- In-class activity
+- Free Class Period for Final Project Questions (DMCL)
 
 #### Wednesday
-- Small Group Discussion (Discussion Leaders Group 5)
+- Small Group Discussion (Discussion Leaders Group 5) - [Discussion Quesitons](workshops/week10/week10_discussion_questions.md)
 
 #### Assignment
 - Dicussion Post 6 due Wednesday 4/2 at 1:10 PM
@@ -208,13 +209,15 @@ _____
 ### Week 11 (4/7/25): Artificial Intelligence Tenants
 #### Readings
 - [Klein, L. & D'Ignazio, C. Data Feminism for AI](https://dl.acm.org/doi/10.1145/3630106.3658543)
-- Artificial Unintelligence Chapter 11: Third Wave AI (moodle)
+- [Stark, Luke. Animation and Artificial Intelligence](readings/week11/luke_stark.pdf)
 
 #### Monday
+- [Slides](slides/week11/Artificial%20Intelligence%20and%20Data%20Science.pdf)
 - [IndieLabel Algorithm Audit](https://github.com/StanfordHCI/indie-label)
 
 #### Wednesday
-- Coding activity 
+- [Exercise 4: Auditing](workshops/week11/Exercsie4-Audit.md)
+- [Exercise 4 Repository](https://github.com/ampivirotto/Exercise-4-Audits)
 
 #### Assignment
 - Finish In-class activity 4 (Exercise 4) due Friday 4/11 at 11:59 PM
@@ -223,13 +226,16 @@ ___
 
 ### Week 12 (4/14/25): Communicating Results 
 #### Readings
-- TBD
+- N/A
 
 #### Monday
 - In-class activity (pair and discuss data intiatives with peer feedback)
+- [Feedback Outline](workshops/week12/pair_share.md)
 
 #### Wednesday
-- Group Coding Activity
+- [Exercise 5: Communicating Results](workshops/week12/exercise5.md)
+- [Exercsie 5 Code Repository](https://github.com/ampivirotto/Exercise5-Viz)
+- [Booker Visualization Repository](https://github.com/ampivirotto/BookerVisualization) and [Executive Order Visualization](https://github.com/ampivirotto/ExecutiveOrderVisualization)
 
 #### Assignment
 - Final Project: Methods Analysis due Friday 4/18 at 11:59 PM
@@ -243,7 +249,8 @@ ____
 - [Data Feminism: Our Values and Our Metrics for Holding Ourselves Accountable](https://data-feminism.mitpress.mit.edu/pub/3hxh4l8o/release/2?readingCollection=0cd867ef)
 
 #### Monday
-- In-class activity
+- [Slides](slides/week13/action.pdf)
+- Creation of a Data Feminisms Zine
 
 #### Wednesday
 - Work class period for final projects
