@@ -1,16 +1,16 @@
-- title: HOME
+- title: Home
   url: /index.html
 
 - title: Spring 2025
   subpages:
     - title: Weekly Syllabus
-      url: /spring2025/weekly_syllabus.md
+      url: spring2025/weekly_syllabus.md
     - title: Final Project
-      url: /spring2025/FinalProject_feb19.md
+      url: spring2025/FinalProject_feb19.md
     - title: Student Resources
-      url: /spring2025/spring2025_student.md
+      url: spring2025/spring2025_student.md
 
 - title: Spring 2026
   subpages:
     - title: Weekly Syllabus
-      url: /spring2026/weekly_2026.html
+      url: spring2026/weekly_2026.html

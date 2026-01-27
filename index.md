@@ -1,6 +1,4 @@
 ---
-title: Home
-hide_title: true
 filename: index.md
 --- 
 
