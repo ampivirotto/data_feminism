@@ -1,11 +1,12 @@
 ---
-title: Intersectional Data Feminism
+title: Home
+hide_title: true
 filename: index.md
 --- 
 
 # Power, Pluralism, and Parity: Intersectional Data Feminism
 
-## Spring 2025
+## Spring 2026
 
 ### Office Hours
 By Appointment and Friday 1-3PM in Carpenter DMCL

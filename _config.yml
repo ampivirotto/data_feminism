@@ -1,18 +1,8 @@
 title: "Power, Pluralism, & Parity: Intersectional Data Feminism"
 description: "Course page from Bryn Mawr College's Intersectional Data Feminism course"
-#theme: jekyll-theme-minimal  # or another supported theme like jekyll-theme-cayman
-#theme: jekyll-theme-cayman
-#show_sidebar: true  # Some themes support this
-#remote_theme: pages-themes/leap-day@v0.2.0
-#plugins:
-#- jekyll-remote-theme # add this line to the plugins list if you already have one
 theme: minima
 minima:
   skin: solarized-light
 
-header_pages:
-  - index.md
-  - weekly_syllabus.md
-  - FinalProject_feb19.md
-  - spring2025_student.md
+
   
