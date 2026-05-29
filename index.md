@@ -2,7 +2,8 @@
 filename: index.md
 --- 
 
-# Power, Pluralism, and Parity: Intersectional Data Feminism
+# Power, Pluralism, and Parity: 
+# Intersectional Data Feminism
 
 ## Spring 2026
 
@@ -17,7 +18,7 @@ ____
 
 ____
 
-### [Weekly Syllabus](weekly_syllabus.md)
+### [Weekly Syllabus](spring2026/weekly_syllabus.md)
 Weekly syllabus will be updated throughout the semester with any changes in due dates and the addition of links to workshops as they become available on GitHub. 
 
 ____
