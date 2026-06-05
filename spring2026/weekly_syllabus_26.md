@@ -21,8 +21,8 @@ ________________________________________________________
 
 #### Wednesday
 - Introduce the syllabus
-- [Data Feminism Principles Activity](spring2026/activities/introduction.md)
-- [AI Policy Introduction Activity](spring2026/activities/ai_policy_discussion.md)
+- [Data Feminism Principles Activity](activities/introduction.md)
+- [AI Policy Introduction Activity](activities/ai_policy_discussion.md)
 
 #### Assignment
 - Make powerpoint slide
@@ -41,7 +41,7 @@ ____
 Snow Day 
 
 #### Wednesday
-- [AI Policy Discussion Continued](spring2026/activities/ai_policy_discussion.md)
+- [AI Policy Discussion Continued](activities/ai_policy_discussion.md)
 
 #### Assignment 
 - Discussion Post 1: AI Policy 
@@ -58,7 +58,7 @@ ___
 - [Intro to Python Workshop GitHub Link](https://github.com/ampivirotto/DF_workshops/blob/main/IntroPython/week4_introPython.ipynb)
 
 #### Wednesday
-- [Slides](spring2026/slides/week3_haraway.pdf)
+- [Slides](slides/week3_haraway.pdf)
 - Group Discussion during slides.
 
 #### Assignment
@@ -73,8 +73,8 @@ ____
 - Race After Technology Introudction: The New Jim Code (Part 1) (moodle)
 
 #### Monday
-- [Slides](spring2026/slides/week4_collins.pdf)
-- [Matrix of Domination Dataset Activity](spring2026/activities/matrix.md)
+- [Slides](slides/week4_collins.pdf)
+- [Matrix of Domination Dataset Activity](activities/matrix.md)
 
 #### Wednesday
 - [Exercise 1: Hiring Filter GitHub Link](https://github.com/ampivirotto/DF_workshops/blob/main/Exercise1_HiringFilter/hiring_application_activity.ipynb)
