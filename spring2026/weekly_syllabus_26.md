@@ -6,13 +6,13 @@ filename: weekly_syllabus_26.md
 
 _______________________________________________________
 
-## Module 1: Building blocks of engaging with data feminism
+## Module 1: Building Blocks
 
 Module 1 will introduce us to the fundamentals of data feminism with a focus on identifying and challenging power structures in the act of data collection, analysis, and communication with a specific emphasis on who is counted in many data initiatives. Along with this, we will begin to learn Python skills to better engage in the material through hands-on, interactive workshops. 
 
 ________________________________________________________
 
-### Week 1 (1/19/25): Introduction to Data Feminism
+### Week 1 (1/21/26): Welcome
 #### Readings
 - No readings
 
@@ -21,8 +21,8 @@ ________________________________________________________
 
 #### Wednesday
 - Introduce the syllabus
-- Activity on guiding principles of data science
-- Activity for AI Policy
+- [Data Feminism Principles Activity](spring2026/activities/introduction.md)
+- [AI Policy Introduction Activity](spring2026/activities/ai_policy_discussion.md)
 
 #### Assignment
 - Make powerpoint slide
@@ -30,8 +30,8 @@ ________________________________________________________
 
 ____
 
-### Week 2 (1/26/25): AI Policy
-#### Readings (due Wednesday 1/28)
+### Week 2 (1/26/26): AI Policy
+#### Readings 
 - [Helping students understand the biases in generative AI](https://cte.ku.edu/addressing-bias-ai)
 - [What's the carbon footprint of using ChatGPT or Gemini? [August 2025 update]](https://hannahritchie.substack.com/p/ai-footprint-august-2025)
 - [Machine learning and generative AI: What are they good for in 2025?](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-and-generative-ai-what-are-they-good-for)
@@ -41,49 +41,46 @@ ____
 Snow Day 
 
 #### Wednesday
-- AI Policy Discussion 
+- [AI Policy Discussion Continued](spring2026/activities/ai_policy_discussion.md)
 
 #### Assignment 
-- 
+- Discussion Post 1: AI Policy 
 
 ___
 
-### Week 3 (2/3/25): Introduction to Coding Basics
-#### Readings (due Monday 2/3)
-- [Data Feminism Introduction: Why Data Science Needs Feminism](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/6?readingCollection=0cd867ef)
-- [Data Feminism Chapter 1: The Power Chapter](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4?readingCollection=0cd867ef)
+### Week 3 (2/2/26): Feminist Theory
+#### Readings 
 - [Combahee River Collective](https://www.jstor.org/stable/24365010?seq=1) (Moodle)
-- [Wilkinson et al. "The FAIR Guiding Principles for scientific data management and stewardship"](https://www.nature.com/articles/sdata201618) (Moodle)
-- [FAIRification Process](https://www.go-fair.org/fair-principles/fairification-process/) 
-- [Counterdata](https://datasociety.net/wp-content/uploads/2024/04/Keywords_Counterdata_Olojo_04242024.pdf)
-- [Counting Feminicide Chapter 8: A Toolkit for Counterdata Science](https://mitpressonpubpub.mitpress.mit.edu/pub/cf-chap8/release/2?readingCollection=16608c58)
+- [Situated Knowledges](https://www.jstor.org/stable/3178066?seq=1) (Moodle)
+
 
 #### Monday
-- Create a GitHub account
-- Walk through an [Introduction to Python](https://github.com/ampivirotto/data_feminism/blob/main/workshops/week3/week3_introPython.ipynb) as a class 
+- [Intro to Python Workshop GitHub Link](https://github.com/ampivirotto/DF_workshops/blob/main/IntroPython/week4_introPython.ipynb)
 
 #### Wednesday
-- Exercise 1: Group Coding Activity - [Hiring Filter Reflection](https://github.com/ampivirotto/data_feminism/blob/main/workshops/week3/hiring_application_activity.ipynb)
+- [Slides](spring2026/slides/week3_haraway.pdf)
+- Group Discussion during slides.
 
 #### Assignment
-- Complete Group Activity and Personal Reflection (Exercise 1) due Sunday 2/9 at 11:59 PM
+- Discussion Post 2
 
 ____
 
-### Week 4 (2/10/25): Challenging Data Neutrality
-#### Readings (due Monday 2/10)
+### Week 4 (2/9/26): Examining and Challenging Power
+#### Readings
+- [Data Feminism Chapter 1: The Power Chapter](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4?readingCollection=0cd867ef)
 - [Data Feminism Chapter 2: Collect, Analyze, Imagine, Teach](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4?readingCollection=0cd867ef)
-- Race After Technology Introudction: The New Jim Code (moodle)
+- Race After Technology Introudction: The New Jim Code (Part 1) (moodle)
 
 #### Monday
-- [Slides](https://github.com/ampivirotto/data_feminism/blob/main/slides/week4/week4.pdf)
-- [NSF Grant Analysis](https://github.com/ampivirotto/data_feminism/blob/main/workshops/week4/nsf_award_analysis.ipynb) - [Complete Version](https://github.com/ampivirotto/data_feminism/blob/main/workshops/week4/nsf_award_analysis_COMPLETE.ipynb)
+- [Slides](spring2026/slides/week4_collins.pdf)
+- [Matrix of Domination Dataset Activity](spring2026/activities/matrix.md)
 
 #### Wednesday
-- Group Discussion (Discussion Leaders Group 1) - [Discussion Questions](workshops/week4/week4_discussion_questions.md)
+- [Exercise 1: Hiring Filter GitHub Link](https://github.com/ampivirotto/DF_workshops/blob/main/Exercise1_HiringFilter/hiring_application_activity.ipynb)
 
 #### Assignment 
-- Discussion Post 2 due Wednesday 2/12 at 1:10PM 
+- Exercise 1: Hiring Filter
 
 _________________________________________________
 
@@ -225,7 +222,8 @@ ___
 
 ### Week 12 (4/14/25): Communicating Results 
 #### Readings
-- N/A
+- - [Counterdata](https://datasociety.net/wp-content/uploads/2024/04/Keywords_Counterdata_Olojo_04242024.pdf)
+- [Counting Feminicide Chapter 8: A Toolkit for Counterdata Science](https://mitpressonpubpub.mitpress.mit.edu/pub/cf-chap8/release/2?readingCollection=16608c58)
 
 #### Monday
 - In-class activity (pair and discuss data intiatives with peer feedback)
