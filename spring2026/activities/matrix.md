@@ -1,6 +1,6 @@
-# Matrix of Domination Data Power Analysis 
+## Matrix of Domination Data Power Analysis 
 
-## Instructions 
+### Instructions 
 1.	Choose a dataset or data collection initiative of your choice to analyze. Several options are suggested below, but feel free to choose another option as well. 
 2.	Explore the data provided (this could be an actual table or just a series of drop downs to explore the dataset). Write a short summary of what data is collected and how they did the collection (if possible). 
 3.	Answer the following questions, thinking about the matrix of domination domains of power: 
@@ -20,7 +20,7 @@
         - Are the voices of those affected by this data included in the decision-marking about the methodology and usage?
 4.	(Time permitting) Be ready to share your dataset along with about 2 minutes of analysis of what your group has identified. 
 
-## Dataset Suggestions:
+### Dataset Suggestions:
 - World Bank Open Data (https://data.worldbank.org/indicator) – A great resource for exploring a variety of socioeconomic, climate, health, and education indicators across many different countries. Please feel free to pick any indicator that interests you – even if there’s not data for all countries or years, you can discuss what’s missing and why that might be. 
 - FBI Crime Data Explorer (https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home) – There are tabs to look at crime and hate crime data by state and by crime. There’s also the ability to download some of the data – a question to ask yourselves if you choose this dataset, is what data is available to me?  Why is this data presented in this way?
 - Mapping Police Violence (https://mappingpoliceviolence.org/) – A collection of mostly public data about police violence in communities. If you choose this dataset, in addition to the graphics, check out their helpful ‘View the data’ section along with the section on their very thorough methodology (https://mappingpoliceviolence.org/methodology).  
